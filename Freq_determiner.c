@@ -6,8 +6,8 @@ int main()
     int n,i,j,temp,count;
     char inputA[]="I am Mahin";
     char outputA[12][2];
-    //gets(inputA);
     n=strlen(inputA);
+//       n=strlen(inputA);
 
     for(i=0;i<n;i++)
     {
